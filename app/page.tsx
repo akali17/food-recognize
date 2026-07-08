@@ -91,7 +91,7 @@ export default function HomePage() {
             margin: 0,
           }}
         >
-          Đồ án tốt nghiệp — model CNN tự fine-tune trên Food-101 (20 món),
+          Đồ án tốt nghiệp — model CNN tự fine-tune trên Food-101 (50 món),
           không chỉ gọi API có sẵn. Tải ảnh một món ăn hoàn chỉnh, hệ thống sẽ
           gọi tên món và đưa ra công thức nấu.
         </p>
